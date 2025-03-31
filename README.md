@@ -1,42 +1,36 @@
-# Sales Dashboard using Google Looker Studio
+# **Sales Dashboard using Google Looker & Jupyter Notebook**
 
-## Overview
-This project involves analyzing sales data using Google Looker Studio and Jupyter Notebook. The dataset was processed in Jupyter Notebook using Python and SQL queries, followed by visualization in Google Looker Studio.
+## 📌 **Project Overview**
+This project focuses on **data manipulation** using **Jupyter Notebook** and **data visualization** using **Google Looker Studio**. The tasks involve:
+- Cleaning and analyzing sales data using **Python & MySQL**
+- Creating visual reports in **Google Looker Studio**
 
-## Project Components
-1. **Jupyter Notebook** - Used for data manipulation and analysis.
-2. **Google Looker Studio** - Used for visualizing the processed data in dashboards.
-3. **GitHub Repository** - Contains the Jupyter Notebook and relevant documentation.
+## 📊 **Google Looker Studio Dashboard**
+[**View the Sales Dashboard**](https://lookerstudio.google.com/reporting/e9ffacfa-97a6-4255-b9c4-1901a84f3b6c)
 
-## Dashboard Link
-🔗 [Google Looker Studio Dashboard](https://lookerstudio.google.com/reporting/e9ffacfa-97a6-4255-b9c4-1901a84f3b6c)
+## 📝 **Project Files**
+- 📂 `Merging and Analysis.ipynb` – Data processing & analysis using **Jupyter Notebook**
+- 📂 `Internship Report- NullClass.pdf` – Internship report detailing the project
+- 📂 `Google looker project.zip` – All project-related files
 
-## Data Analysis & Visualization
-- Implemented SQL queries to fetch and preprocess sales data.
-- Created bar charts in Looker Studio to represent revenue before and after discounts.
-- Visualized discount impact on various product categories.
-
-## Repository Contents
-- `sales_analysis.ipynb` → Jupyter Notebook with data processing and visualization.
-- `README.md` → Project documentation (this file).
-
-## How to Run the Project
+## 📥 **Setup Instructions**
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/srushti-pattankar/Sales-Analysis.git
    ```
-2. Open `sales_analysis.ipynb` in Jupyter Notebook.
-3. Install dependencies:
+2. Install dependencies:
    ```bash
-   pip install pandas numpy scikit-learn mysql-connector-python matplotlib
+   pip install pandas numpy mysql-connector-python matplotlib scikit-learn
    ```
-4. Execute the notebook to process the dataset.
-5. View the visualizations in the Google Looker Studio dashboard.
+3. Open Jupyter Notebook and run the script:
+   ```bash
+   jupyter notebook
+   ```
 
-## Submission Requirements
-- Jupyter Notebook uploaded to GitHub.
-- Google Looker Studio link added to the repository description.
-- Internship report submitted via email along with the GitHub link.
+## 📌 **How to Access the Dashboard?**
+1. Open the **Google Looker Studio** dashboard link above
+2. Explore the **sales trends & discount impact analysis**
 
-## Author
-**Srushti B. Pattankar**
+## 📩 **Submission Details**
+- **GitHub Repo Link:** [Sales Analysis Repository](https://github.com/srushti-pattankar/Sales-Analysis)
+- **Google Looker Studio Link:** [View Dashboard](https://lookerstudio.google.com/reporting/e9ffacfa-97a6-4255-b9c4-1901a84f3b6c)
